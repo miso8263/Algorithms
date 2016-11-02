@@ -1,0 +1,22 @@
+Michelle Soult's CSCI 2824 Project
+Discrete Mathematics
+Spring 2014
+
+Two programs created to achieve prime factorization.  
+
+
+CXX_BF
+____________________
+
+Included to demonstrate GMP (multiprecision) within C++ on the brute force factorization approach as well as simple use of Open MP for multithreading
+
+
+
+CXX_Rho
+____________________
+
+Included to demonstrate using a modification of Rho's algorithm
+
+
+
+
